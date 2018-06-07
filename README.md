@@ -1,5 +1,6 @@
 # ConversaoAFNDparaAFD
-• Conversão de Autômatos Finitos Não Determinísticos (AFND) para Autômatos Finitos Determinísticos (AFD) - Em JAVA
+• Conversão de Autômatos Finitos Não Determinísticos (AFND) para Autômatos Finitos Determinísticos (AFD) - Em JAVA.
+
 • IDE: Netbeans
 
 # Conversão de expressões regulares para AFD/AFN é um procedimento utilizado para, dada uma expressão regular (ER), transformá-la em um autômato finito não determinístico(AFN), e deste para um autômato finito determinístico(AFD).
